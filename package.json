@@ -1,0 +1,15 @@
+{
+  "name": "proyecto_tic",
+  "version": "1.0.0",
+  "description": "Introducción NodeJs",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dparedes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
